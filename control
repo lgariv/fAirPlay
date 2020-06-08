@@ -1,0 +1,9 @@
+Package: com.miwix.fairplay
+Name: fAirPlay
+Author: Lavie Gariv
+Description: Disables AirPlay button system-wide
+Depends: mobilesubstrate, firmware (>= 13.0)
+Maintainer: Lavie Gariv <lavie43b@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.1.0
